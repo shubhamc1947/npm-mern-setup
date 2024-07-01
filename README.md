@@ -19,7 +19,7 @@ Before running the setup script, ensure you have the following installed:
 
 1. **Run the Setup Script**
 
-   Once installed, you can run the setup script using the `npx` command:
+   You can run the setup script using the `npx` command:
 
    ```bash
    npx mernstepup
