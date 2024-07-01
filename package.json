@@ -11,7 +11,7 @@
     "mernsetup": "./index.js"
   },
   "name": "mernsetup",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "This package will fast the frontend and backend stepup for the MERN stack development",
   "main": "setup.js",
   "scripts": {
